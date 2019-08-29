@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-
+import { Github } from '../github-class';
 @Component({
   selector: 'app-github',
   templateUrl: './github.component.html',
@@ -13,6 +13,5 @@ export class GithubComponent implements OnInit {
   ngOnInit() {
   }
   
-    
-
+ 
 }
