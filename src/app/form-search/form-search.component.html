@@ -4,11 +4,24 @@
 
     <div class="container">
         <div class="input-group">
-            <input type="text" class="form-control" placeholder="Enter your name here...">
+            <input #prompt type="text" class="form-control" placeholder="Enter your name here...">
             <span class="input-group-btn">
-                <button class="btn btn-search" type="button"><i class="fa fa-search fa-fw"></i> Search</button>
+                <button (click) = "functionsearch(prompt.value)" class="btn btn-search" type="button"><i class="fa fa-search fa-fw"></i> Search</button>
             </span>
         </div>
     </div>
+    
 
+<div>
+    
+    <img src="{{pop.avatar_url}}">
+    <td>{{pop.login}}</td><br>
+    <td>{{pop.public_repos}}</td>
+
+</div>
+<div *ngFor="let repos of repos">
+    <td>{{repos.date}}</td><br>
+    <td>{{repos.description}}</td><br>
+    <td>{{repos.repoName}}</td><br>
+</div>
 </div>

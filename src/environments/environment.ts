@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  key:"1b896bdca0ad9baa6502b57dd79dc626cf3a9648",
-  apiUrl:"https://api.github.com/Apamela/daneden?access_token='1b896bdca0ad9baa6502b57dd79dc626cf3a9648' "
+  key: "517fb6c7d416e01b90538e87ad2ad16b82198ecc",
+  apiUrl: "517fb6c7d416e01b90538e87ad2ad16b82198ecc"
 
 };
 
