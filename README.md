@@ -24,7 +24,7 @@ The program users the following tecknologies FOr the user-interface:
 * Boostrap styles
 * angular 8
 * Typescript
-* Github API
+* Github 
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
