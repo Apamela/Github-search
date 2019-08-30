@@ -1,4 +1,9 @@
-# Github
+## Github
+* By pamela Umutoniwase
+## Description
+This Github User lookup application is a single page application thatb allows users to search for github users  using their usernames and display the user's github information. with this application a user is able to:
+* Search for a github user using their username.
+* view a user's list of github repos.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.2.
 
@@ -18,6 +23,8 @@ The program users the following tecknologies FOr the user-interface:
 * HTML
 * Boostrap styles
 * angular 8
+* Typescript
+* Github API
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
@@ -41,4 +48,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
  * phone Number:+250780365718
  * Emmail:pamelab.desire@gmail.com
  ## License
-    pam Copyright(c)2019
+    Copyright(c)2019 Pamy
