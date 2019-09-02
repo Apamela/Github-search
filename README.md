@@ -1,4 +1,4 @@
-## Github Searc
+## Github Search
 * By pamela Umutoniwase
 ## Description
 This Github User lookup application is a single page application thatb allows users to search for github users  using their usernames and display the user's github information. with this application a user is able to:
