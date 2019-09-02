@@ -1,5 +1,5 @@
 ## Github Search
-* By pamela Umutoniwase
+* By pamela Umutoniwas
 ## Description
 This Github User lookup application is a single page application thatb allows users to search for github users  using their usernames and display the user's github information. with this application a user is able to:
 * Search for a github user using their username.
